@@ -13,3 +13,14 @@ divisa no está en el diccionario.
 Después debe mostrar por pantalla el mensaje <nombre>, tiene <edad> años, vive en 
 <dirección> y su número de teléfono es <teléfono>
 
+![image](https://github.com/user-attachments/assets/1adace53-7e54-4b1d-a4ff-759ed81106af)
+
+![image](https://github.com/user-attachments/assets/c1997f83-5c54-45c4-b2c5-b27678fe9aa0)
+
+3- Guardar en un diccionario precios de las frutas en una matriz, luego preguntar al
+usuario por fruta, un número de kilos mostrar el precio de ese número de kilos de fruta.
+Si no está la fruta no está en el diccionario debe mostrar un mensaje informando eso mismo
+
+![image](https://github.com/user-attachments/assets/ec56744c-c033-4bd4-81f7-bf59210c0cd8)
+
+![image](https://github.com/user-attachments/assets/069cade7-1673-4ee5-89cb-e85bd2799216)
